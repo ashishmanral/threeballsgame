@@ -1,0 +1,11 @@
+<module rename-to='threeballsgame'>
+  <inherits name='playn.PlayN'/>
+  <inherits name='ThreeBallsGameAssets'/>
+
+  <source path='core'/>
+  <source path='html'/>
+
+  <public path="resources" />
+
+  <entry-point class='com.googlecode.ashish.html.ThreeBallsGameHtml'/>
+</module>
